@@ -1,0 +1,12 @@
+Version 1 :
+first_name = input("Enter first name: ") 
+last_name = input("Enter last name: ")
+section = input("Enter section: ")
+favorite subject = input("Enter favorite subject: ")
+
+print() 
+print("Formatted Output: ) 
+print("Name: ", first_name, last_name) 
+print("Name Code: ", first_name, last_name)
+print("Section: ", section) 
+print("Favorite subject: ", favorite_subject)
